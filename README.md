@@ -7,3 +7,4 @@
 * [ ] Жанна Агузарова :alien:
 * [x] Babushkaboi :older_woman:
 * [ ] Боевое :rage:
+* [ ] Нейтральное :confused:
