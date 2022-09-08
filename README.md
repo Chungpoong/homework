@@ -1,9 +1,10 @@
 # Homework
 
-Настроение:
+## `Настроение:`
 * Веселое :satisfied:
 * Приуныл :goberserk:
 * Опа чирик :astonished:
 * Сонливое :pensive:
 * Жанна Агузарова :alien:
 * Babushkaboi :older_woman:
+* Боевое :rage:
